@@ -27,7 +27,7 @@ Feel free to explore, learn, and provide feedback on the solutions!
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/project-euler-answers.git
+    git clone https://github.com/cdkw5/project-euler-answers
     ```
 
 2. Navigate to the specific problem directory you're interested in.
@@ -38,10 +38,7 @@ Feel free to explore, learn, and provide feedback on the solutions!
 
 ## Contribute
 
-Contributions are welcome! If you have a different approach to solving a problem or want to add solutions for problems not covered, feel free to open a pull request. Please follow the [contribution guidelines](CONTRIBUTING.md).
+Contributions are welcome! If you have a different approach to solving a problem or want to add solutions for problems not covered, feel free to open a pull request. 
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use the code for your own learning or contribute to make it better!
 
 Happy coding! 🚀
